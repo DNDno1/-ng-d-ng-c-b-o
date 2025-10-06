@@ -1,3 +1,3 @@
-# Dự án làm Ứng dụng đặt vé Concert.
+# Dự án làm Ứng dụng đọc báo.
 
 yêu cầu về dự án
